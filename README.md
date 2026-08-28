@@ -36,4 +36,4 @@ Double click `index.html` or serve using Live Server.
 
 ## 👤 Developer
 **Talha Amin**  
-*Full-Stack Developer Intern*
+*Full-Stack Developer*
